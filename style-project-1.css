@@ -149,7 +149,7 @@ font-size: 40px;
     width: 320px;
     height: 220px;
     margin-top: 80px;
-    margin-left: 100px;
+    margin-left: 135px;
     text-align: center;
     border: 1px solid #a68f76;
    position: relative;
@@ -210,7 +210,7 @@ color:  #836a50 ;
     width: 100%;
     background-color: #e9ded2;
     height: 100vh;
-    overflow: auto;  
+    overflow: auto;
 
 }
 .h2sec3{
